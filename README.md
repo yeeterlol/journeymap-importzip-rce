@@ -1,5 +1,5 @@
 # journeymap import zip rce
-exploit import zip in journeymap to rce anybody
+exploit import zip in journeymap to rce anybody (oh my god its epic leet 0day)
 
 # writeup
 this exploits a zipslip attack to arb write to minecraft mods.
